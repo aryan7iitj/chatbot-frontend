@@ -4,9 +4,8 @@ This is a simple chatbot frontend built with React. It allows users to send mess
 
 ## Table of Contents
 
-- [Installation and Usage]
-- [Usage]
-- [Features]
+- [Installation and Usage](#installation-and-usage)
+- [Features](#features)
 
 ## Installation and Usage
 
