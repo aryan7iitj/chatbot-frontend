@@ -4,9 +4,9 @@ This is a simple chatbot frontend built with React. It allows users to send mess
 
 ## Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
+- [Installation and Usage]
+- [Usage]
+- [Features]
 
 ## Installation and Usage
 
@@ -43,3 +43,5 @@ This is a simple chatbot frontend built with React. It allows users to send mess
 - Dropdown menu to select predefined options.
 - Responsive design.
 
+## Contributing
+Contributions are welcome! Please fork the repository and submit a pull request with your changes.
